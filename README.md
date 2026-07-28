@@ -171,6 +171,110 @@ As análises foram desenvolvidas utilizando fontes pesquisadas e organizadas no 
 - *Mapping Industry 4.0 Technologies: From Cyber-Physical Systems to Artificial Intelligence*.
 
 ---
+---
+
+## 📚 Curadoria de Fontes
+
+As fontes abaixo foram selecionadas e utilizadas no NotebookLM para construção do caderno temático:
+
+1. **Fundamentos Lean Manufacturing e WCM**
+   - Base conceitual sobre Lean Manufacturing, eliminação de desperdícios, melhoria contínua e excelência operacional.
+
+2. **Problema Industrial – Linha de Montagem**
+   - Cenário utilizado como estudo de caso para análise das causas de perda de eficiência produtiva.
+
+3. **Inteligência Artificial – SENAI**
+   - Referência sobre aplicação da Inteligência Artificial no ambiente industrial.
+
+4. **SENAI 4.0 – Sistema Indústria**
+   - Conteúdo relacionado à transformação digital, Indústria 4.0 e tecnologias inteligentes.
+
+5. **Mapping Industry 4.0 Technologies: From Cyber-Physical Systems to Artificial Intelligence**
+   - Artigo científico utilizado para aprofundamento sobre tecnologias da Indústria 4.0.
+
+---
+
+## 🧠 Engenharia de Prompts
+
+Durante o desenvolvimento do projeto foram realizados testes de prompts no NotebookLM para melhorar a qualidade das respostas geradas.
+
+### Prompt inicial:
+
+> Analise as principais causas para a queda do OEE em uma linha de montagem automotiva.
+
+**Resultado obtido:**
+- Identificação inicial das possíveis causas.
+- Necessidade de fornecer maior contexto industrial.
+
+### Evolução do prompt:
+
+> Crie uma análise técnica utilizando Lean Manufacturing, WCM, 4Ms, PDCA, 5 Porquês e Inteligência Artificial para solucionar um aumento de 15% nas paradas não planejadas em uma linha de montagem automotiva.
+
+**Resultado obtido:**
+- Resposta mais estruturada.
+- Maior conexão com o problema industrial.
+- Melhor aplicação das metodologias de melhoria contínua.
+
+---
+
+## 🔧 Cicatrizes e Aprendizados
+
+Durante o desenvolvimento do projeto foram identificados alguns desafios:
+
+- Algumas respostas iniciais da IA ficaram genéricas.
+- Foi necessário melhorar os prompts para obter análises mais técnicas.
+- A qualidade das respostas aumentou após a inclusão de fontes específicas.
+- Algumas fontes em inglês exigiram adaptação para o contexto brasileiro.
+
+### Principais aprendizados:
+
+- A qualidade da resposta da IA depende da qualidade do prompt utilizado.
+- A curadoria das fontes influencia diretamente o resultado.
+- A Inteligência Artificial deve ser utilizada como ferramenta de apoio ao pensamento crítico.
+
+---
+
+## 📖 Miniguia de Estudo
+
+### Resumo
+
+A Inteligência Artificial aplicada à melhoria contínua permite analisar informações industriais, identificar padrões, apoiar a investigação de causas raiz e auxiliar na criação de planos de ação.
+
+A combinação entre IA, Lean Manufacturing, WCM e ferramentas tradicionais de solução de problemas possibilita processos mais eficientes, estáveis e orientados por dados.
+
+### Glossário
+
+**OEE (Overall Equipment Effectiveness)**  
+Indicador utilizado para medir a eficiência global de equipamentos considerando disponibilidade, performance e qualidade.
+
+**Lean Manufacturing**  
+Filosofia de gestão focada na eliminação de desperdícios e geração de valor.
+
+**WCM (World Class Manufacturing)**  
+Modelo de excelência operacional baseado em melhoria contínua e redução de perdas.
+
+**PDCA**  
+Método estruturado para planejar, executar, verificar resultados e padronizar melhorias.
+
+**5W2H**  
+Ferramenta utilizada para estruturar planos de ação.
+
+**Inteligência Artificial Generativa**  
+Tecnologia capaz de gerar conteúdos, análises e auxiliar processos de tomada de decisão.
+
+### Prompts Reutilizáveis
+
+**Análise de causa raiz:**
+
+> Analise este problema industrial utilizando os 4Ms e identifique possíveis causas raiz.
+
+**Plano de ação:**
+
+> Crie um plano 5W2H para eliminar uma perda de eficiência em uma linha de produção.
+
+**Melhoria contínua com IA:**
+
+> Explique como a Inteligência Artificial pode apoiar a melhoria contínua em um processo industrial.
 
 ## 👨‍💻 Autor
 
