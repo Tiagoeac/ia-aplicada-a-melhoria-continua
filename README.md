@@ -13,6 +13,10 @@
 - [🚀 Competências Desenvolvidas](#-competências-desenvolvidas)
 - [💡 Aplicação da Inteligência Artificial](#-aplicação-da-inteligência-artificial)
 - [📚 Referências](#-referências)
+- [📚 Curadoria de Fontes](#-curadoria-de-fontes)
+- [🧠 Engenharia de Prompts](#-engenharia-de-prompts)
+- [🔧 Cicatrizes e Aprendizados](#-cicatrizes-e-aprendizados)
+- [📖 Miniguia de Estudo](#-miniguia-de-estudo)
 - [👨‍💻 Autor](#-autor)
 
 ---
@@ -92,9 +96,8 @@ A análise considera fatores relacionados aos **4Ms**:
 
 README.md
 LICENSE
-```
 
----
+```
 
 ## 🧠 Materiais Desenvolvidos no NotebookLM
 
@@ -170,7 +173,6 @@ As análises foram desenvolvidas utilizando fontes pesquisadas e organizadas no 
 - OpenAI Developers.
 - *Mapping Industry 4.0 Technologies: From Cyber-Physical Systems to Artificial Intelligence*.
 
----
 ---
 
 ## 📚 Curadoria de Fontes
