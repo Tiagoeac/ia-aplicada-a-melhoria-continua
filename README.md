@@ -2,38 +2,87 @@
 
 ## Sobre o Projeto
 
-Projeto desenvolvido durante o curso da DIO com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de apoio à aprendizagem e aplicação dos conceitos de Melhoria Contínua.
+Este projeto foi desenvolvido durante a formação da DIO com o objetivo de explorar a aplicação da Inteligência Artificial Generativa como ferramenta de apoio à Melhoria Contínua em ambientes industriais.
 
-## Objetivos
+A proposta é demonstrar como a IA pode auxiliar profissionais na análise de problemas, organização de conhecimento, investigação de causas e elaboração de planos de ação.
 
-- Explorar ferramentas de Inteligência Artificial Generativa;
-- Utilizar o NotebookLM para organização e análise de conhecimento;
-- Relacionar IA com práticas de melhoria de processos;
-- Desenvolver visão sobre aplicações da IA no ambiente industrial.
+---
 
-## Ferramentas utilizadas
+# Objetivo
 
-- NotebookLM
-- Inteligência Artificial Generativa
-- GitHub
-- Markdown
+Demonstrar aplicações práticas da Inteligência Artificial associadas aos conceitos de:
 
-## Aplicação na indústria
+- Lean Manufacturing;
+- WCM;
+- Análise de causa raiz;
+- Melhoria contínua;
+- Gestão de processos.
 
-A Inteligência Artificial pode contribuir para:
+---
 
-- análise de problemas;
-- identificação de oportunidades de melhoria;
-- criação de padrões;
-- organização de conhecimento;
-- apoio à tomada de decisão.
+# Estrutura do Projeto
 
-## Autor
+## 📁 dados
+
+Contém um exemplo de problema industrial utilizado como base para análise.
+
+## 📁 Análises
+
+Apresenta uma análise utilizando Inteligência Artificial, incluindo:
+
+- Levantamento de possíveis causas;
+- Aplicação dos 5 Porquês;
+- Sugestões de ações de melhoria.
+
+## 📁 ferramentas
+
+Biblioteca de prompts para utilização de IA em atividades relacionadas à melhoria contínua.
+
+---
+
+# Caso Estudado
+
+Problema analisado:
+
+**Aumento de 15% nas paradas não planejadas em uma linha de montagem automotiva.**
+
+A análise considera fatores relacionados a:
+
+- Máquina;
+- Método;
+- Mão de obra;
+- Material.
+
+---
+
+# Ferramentas Utilizadas
+
+- Inteligência Artificial Generativa;
+- NotebookLM;
+- GitHub;
+- Markdown;
+- Lean Manufacturing;
+- 5 Porquês;
+- 5W2H.
+
+---
+
+# Aplicação na Indústria
+
+A Inteligência Artificial pode apoiar profissionais industriais através de:
+
+- Análise estruturada de problemas;
+- Organização de informações técnicas;
+- Criação de padrões;
+- Apoio na tomada de decisão;
+- Identificação de oportunidades de melhoria.
+
+---
+
+# Autor
 
 **Tiago Emanuel Azevedo Costa**
 
-Profissional da indústria automotiva com experiência em liderança operacional, Lean Manufacturing, WCM e melhoria contínua.
-
----
+Profissional da indústria automotiva com experiência em liderança operacional, Lean Manufacturing, WCM, balanceamento produtivo e melhoria contínua.
 
 Projeto desenvolvido durante a formação da DIO.
